@@ -1,6 +1,6 @@
 # NLE-assignment1
-got 48 mark
+48/100
 # NLE-assignment2
-got 78 mark
+78/100
 # 学习资料
 https://drive.google.com/drive/folders/1gygJLBk7z78YAwd0eV-1U5p2UToqau7H
